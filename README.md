@@ -7,7 +7,6 @@ Go to a specific image and use it to review your concepts.
 ## What I share on the channel
 
 - **AI, explained simply.** How AI actually works under the hood, from the math behind models (embeddings, cosine similarity, loss functions, optimization) to the system design behind real AI products like RAG and vector databases. I use analogies, stories and hand-drawn doodles so hard ideas are easy to pick up.
-- **Honest reviews and experiences.** What I learned from programs I've joined, like AI Singapore's apprenticeship programme.
 - **Practical life lessons.** The stuff school doesn't teach, like how to get through a crisis, told the way you'd hear it from a friend over coffee.
 
 New videos every week.
