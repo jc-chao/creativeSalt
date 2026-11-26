@@ -13,8 +13,4 @@ New videos every week.
 
 ## Doodles
 
-| Topic | Image |
-| --- | --- |
-| Embedding Space | [embedding_space.png](embedding_space.png) |
-| RAGs | [rags.png](rags.png) |
-| Designing a Vector DB | [design_vector_db.png](design_vector_db.png) |
+Pick the image based on the PNG file names in this repo.
